@@ -1,4 +1,8 @@
 # splitting_the_restaraunt_bill
 
 Flutter project
-![image](https://user-images.githubusercontent.com/80650617/188335065-916fb8bb-717d-4d9a-9cd0-64ef0e221c90.png)
+
+
+
+![image](https://user-images.githubusercontent.com/80650617/188335095-f00a0e42-2327-47bd-a77d-6d505ebeab70.png)
+
